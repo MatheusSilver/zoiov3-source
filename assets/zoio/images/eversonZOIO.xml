@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eversonZOIO.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zoioSPOOK0000" x="0" y="0" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0001" x="1155" y="0" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0002" x="2310" y="0" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0003" x="0" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0004" x="1155" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0005" x="2310" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0006" x="1155" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0007" x="0" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0008" x="1155" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0009" x="2310" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0010" x="0" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0011" x="1155" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0012" x="2310" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0013" x="1155" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0014" x="0" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0015" x="1155" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0015" x="0" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0016" x="0" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0017" x="1155" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0018" x="2310" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0019" x="1155" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0020" x="0" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0021" x="1155" y="1456" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0022" x="2310" y="2912" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0023" x="1155" y="0" width="1155" height="1456"/>
+	<SubTexture name="zoioSPOOK0024" x="0" y="0" width="1155" height="1456"/>
+</TextureAtlas>

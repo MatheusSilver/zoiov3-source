@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-110
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zoioPodpah left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-140
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zoioPodpah down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-140
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zoioPodpah up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-123
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zoioPodpah right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				-100
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zoioPodpah idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idole",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "lefot",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "raiti",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "upie",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zoioPodpah",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zoioCll",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

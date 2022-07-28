@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"ConfrontingYourself",
+			"zoioCll",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "core",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "why",
+	"weekName": "Core e Pitro KEKEKEKEKKE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "expurgation",
+	"startUnlocked": false
+}

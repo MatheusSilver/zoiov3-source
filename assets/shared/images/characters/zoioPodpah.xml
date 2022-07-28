@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zoioPodpah.png">
+<SubTexture name="zoioPodpah down0000" x="0" y="552" width="572" height="506" frameX="0" frameY="0" frameWidth="572" frameHeight="506" />
+<SubTexture name="zoioPodpah idle0000" x="0" y="0" width="428" height="552" frameX="0" frameY="0" frameWidth="428" frameHeight="552" />
+<SubTexture name="zoioPodpah left0000" x="428" y="0" width="578" height="540" frameX="0" frameY="0" frameWidth="578" frameHeight="540" />
+<SubTexture name="zoioPodpah right0000" x="1006" y="0" width="578" height="540" frameX="0" frameY="0" frameWidth="578" frameHeight="540" />
+<SubTexture name="zoioPodpah up0000" x="572" y="552" width="572" height="506" frameX="0" frameY="0" frameWidth="572" frameHeight="506" />
+</TextureAtlas>

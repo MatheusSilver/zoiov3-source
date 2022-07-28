@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-189,
+				-90
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zoio left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-160,
+				-100
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zoio down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-149,
+				-72
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zoio up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-103
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zoio right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				-100
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "zoio idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "zoio idle"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "zoio left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "zoio right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "zoio up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zoio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zoioCll",
+	"flip_x": false,
+	"healthbar_colors": [
+		25,
+		200,
+		2
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

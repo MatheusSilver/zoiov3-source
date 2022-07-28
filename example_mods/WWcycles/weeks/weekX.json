@@ -1,0 +1,30 @@
+{
+	"storyName": "cycles",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Cycles",
+			"lordx",
+			[
+				96,
+				105,
+				162
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week X"
+}
